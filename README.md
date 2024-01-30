@@ -10,7 +10,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mateushsx&bg_color=0d1117&color=3584e4&line=007af4&point=3d3846&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mateushsx&bg_color=0d1117&color=4C25B0&line=007af4&point=3d3846&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mateushsx&theme=algolia&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
