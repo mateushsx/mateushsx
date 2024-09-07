@@ -5,7 +5,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mateushsx&locale=pt-br&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com/?user=mateushsx&locale=pt-br&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3&title_color=4C25B0&icon_color=4C25B0&text_color=ffffff&bg_color=0d1117" height="150" alt="streak graph"  />
 </div>
 
 
