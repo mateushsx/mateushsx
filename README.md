@@ -2,6 +2,12 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C25B0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Mateus+Henrique;I'm+19+years+old;I+am+from+Costa+Marques,+RO;I+am+developer+Full+Stack+at+company+Taugor;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mateushsx&locale=pt-br&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mateushsx&show_icons=true&count_private=true&hide_border=true&title_color=4C25B0&icon_color=4C25B0&text_color=ffffff&bg_color=0d1117" alt="Mateus Henrique github stats" /> 
