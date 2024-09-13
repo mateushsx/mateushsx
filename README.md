@@ -8,10 +8,11 @@
   <img src="https://streak-stats.demolab.com?user=mateushsx&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=495&card_height=195&background=EBE8E800&currStreakLabel=70A5FD&currStreakNum=70A5FD&sideNums=592BCE&sideLabels=FFFFFF&ring=592BCE&dates=AE96FD&fire=70A5FD" alt="GitHub Streak" />
 </div>
 
-<div align="center">  
-  <img width="49%"  height="195px" src="https://github-readme-stats.vercel.app/api?username=mateushsx&show_icons=true&count_private=true&hide_border=true&title_color=4C25B0&icon_color=4C25B0&text_color=ffffff&bg_color=0d1117" alt="Mateus Henrique github stats" /> 
-  <img width="41%"  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushsx&layout=compact&hide_border=true&title_color=4C25B0&text_color=ffffff&bg_color=0d1117" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img style="width: 49%; min-width: 300px;" height="195px" src="https://github-readme-stats.vercel.app/api?username=mateushsx&show_icons=true&count_private=true&hide_border=true&title_color=4C25B0&icon_color=4C25B0&text_color=ffffff&bg_color=0d1117" alt="Mateus Henrique github stats" /> 
+  <img style="width: 49%; min-width: 300px;" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushsx&layout=compact&hide_border=true&title_color=4C25B0&text_color=ffffff&bg_color=0d1117" />
 </div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mateushsx&bg_color=0d1117&color=774ede&line=774ede&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
