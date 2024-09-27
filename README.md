@@ -14,7 +14,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mateushsx&bg_color=0d1117&color=774ede&line=774ede&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mateushsx&bg_color=0d1117&color=592BCE&line=774ede&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mateushsx&theme=tokyonight&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
