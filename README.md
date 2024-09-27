@@ -9,8 +9,8 @@
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img style="width: 49%; min-width: 300px;" height="195px" src="https://github-readme-stats.vercel.app/api?username=mateushsx&show_icons=true&count_private=true&hide_border=true&title_color=4C25B0&icon_color=4C25B0&text_color=ffffff&bg_color=0d1117" alt="Mateus Henrique github stats" /> 
-  <img style="width: 49%; min-width: 300px;" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushsx&layout=compact&hide_border=true&title_color=4C25B0&text_color=ffffff&bg_color=0d1117" />
+  <img style="width: 49%; min-width: 300px;" height="195px" src="https://github-readme-stats.vercel.app/api?username=mateushsx&show_icons=true&count_private=true&hide_border=true&title_color=592BCE&icon_color=592BCE&text_color=ffffff&bg_color=0d1117" alt="Mateus Henrique github stats" /> 
+  <img style="width: 49%; min-width: 300px;" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushsx&layout=compact&hide_border=true&title_color=592BCE&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 
